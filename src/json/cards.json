@@ -1,0 +1,90 @@
+[
+        {   
+            "image": "rectangle1.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle2.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle3.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle4.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle5.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle6.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle1.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        },
+        {   
+            "image": "rectangle2.png",
+            "title" : "103/143 West Street, Crows Nest",
+            "text" : [
+                "10 Bedroom",
+                "150 M",
+                "2 Garage"
+            ],
+            "poster" : "X Builder",
+            "price" : "45,545"
+        }
+    ]
